@@ -100,7 +100,6 @@
       "drush/drush": "^10.0.0",
       "npm-asset/ckeditor-autogrow": "^1.0",
       "npm-asset/jquery-ui-touch-punch": "^0.2.3",
-      "onlynet/twigimage": "^0.0.1",
       "oomphinc/composer-installers-extender": "^2.0",
       "webflo/drupal-finder": "^1.0.0",
       "wikimedia/composer-merge-plugin": "^2.0"
