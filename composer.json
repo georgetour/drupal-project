@@ -54,7 +54,10 @@
   "prefer-stable": true,
   "config": {
     "sort-packages": true,
-    "discard-changes": true
+    "discard-changes": true,
+     "allow-plugins": {
+      "cweagans/composer-patches": true,
+    },
   },
   "autoload": {
     "psr-4": {
