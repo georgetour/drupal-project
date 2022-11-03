@@ -56,8 +56,8 @@
     "sort-packages": true,
     "discard-changes": true,
      "allow-plugins": {
-      "cweagans/composer-patches": true,
-    },
+      "cweagans/composer-patches": true
+    }
   },
   "autoload": {
     "psr-4": {
