@@ -1,16 +1,15 @@
 {
-  "name": "onlynet/drupal",
-  "description": "Project template for Drupal 8 projects with composer",
-  "type": "project",
-  "license": "GPL-2.0-or-later",
-  "homepage": "https://www.drupal.org/project/drupal",
-  "authors": [
-    {
-      "name": "Kiriakos Dimakopoulos",
-      "email": "me@kirkdeam.com",
-      "role": "Maintainer"
-    }
-  ],
+   "name": "georgetour/drupal-project",
+    "description": "Project template for Drupal 8 projects with composer",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+      {
+          "name": "George Tourtsinakis",
+          "email": "george@besmartbesimple.com",
+          "role": "Maintainer"
+      }
+   ],
   "support": {
     "docs": "https://www.drupal.org/docs/user_guide/en/index.html",
     "chat": "https://www.drupal.org/node/314178"
